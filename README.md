@@ -31,8 +31,8 @@ Tools • Dart 3.11.4 • DevTools 2.54.2
 ## Uygulama Ekran Görüntüleri
 
 <p align="center">
-  <img src="screenshots/1.png" width="200" />
-  <img src="screenshots/2.png" width="200" /> 
-  <img src="screenshots/21.png" width="200" />
-  <img src="screenshots/22.png" width="200" />
+  <img src="screenshots/1.jpg" width="200" />
+  <img src="screenshots/2.jpg" width="200" /> 
+  <img src="screenshots/21.jpg" width="200" />
+  <img src="screenshots/22.jpg" width="200" />
 </p>
