@@ -28,20 +28,11 @@ Tools • Dart 3.11.4 • DevTools 2.54.2
 ## Ekran Görüntüleri
 ## 📸 Ekran Görüntüleri
 
-### 1. Görsel
-![1](screenshots/1.png)
+## Uygulama Ekran Görüntüleri
 
-### 2. Görsel
-![2](screenshots/2.png)
-
-### 3. Görsel
-![3](screenshots/3.png)
-
-### 4. Görsel
-![4](screenshots/4.png)
-
-### 21. Görsel
-![21](screenshots/21.png)
-
-### 22. Görsel
-![22](screenshots/22.png)
+<p align="center">
+  <img src="screenshots/1.png" width="200" />
+  <img src="screenshots/2.png" width="200" /> 
+  <img src="screenshots/21.png" width="200" />
+  <img src="screenshots/22.png" width="200" />
+</p>
