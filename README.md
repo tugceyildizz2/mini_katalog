@@ -26,4 +26,22 @@ Tools • Dart 3.11.4 • DevTools 2.54.2
    flutter run
 
 ## Ekran Görüntüleri
-(Eklenecek)
+## 📸 Ekran Görüntüleri
+
+### 1. Görsel
+![1](screenshots/1.png)
+
+### 2. Görsel
+![2](screenshots/2.png)
+
+### 3. Görsel
+![3](screenshots/3.png)
+
+### 4. Görsel
+![4](screenshots/4.png)
+
+### 21. Görsel
+![21](screenshots/21.png)
+
+### 22. Görsel
+![22](screenshots/22.png)
