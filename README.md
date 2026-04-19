@@ -26,15 +26,11 @@ Tools • Dart 3.11.4 • DevTools 2.54.2
    flutter run
 
 ## Ekran Görüntüleri
-## 📸 Ekran Görüntüleri
-
-## Uygulama Ekran Görüntüleri
-
 <p align="center">
-  <img src="screenshots/1.jpg" width="200" />
-  <img src="screenshots/2.jpg" width="200" /> 
-  <img src="screenshots/21.jpg" width="200" />
-  <img src="screenshots/22.jpg" width="200" />
-    <img src="screenshots/3.jpg" width="200" />
-    <img src="screenshots/4.jpg" width="200" />
+  <img src="1.jpg" width="200" />
+  <img src="2.jpg" width="200" />
+  <img src="21.jpg" width="200" />
+  <img src="22.jpg" width="200" />
+  <img src="3.jpg" width="200" />
+  <img src="4.jpg" width="200" />
 </p>
